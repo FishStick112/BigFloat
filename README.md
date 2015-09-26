@@ -1,2 +1,2 @@
 # BigFloat
-Arbitrary-Precision Float Arithmetic Library in C++
+Arbitrary-Precision Float Arithmetic Library [done in C++]
